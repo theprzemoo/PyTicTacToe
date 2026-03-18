@@ -1,9 +1,3 @@
-"""
-TicTacToe — Two-player Tic-Tac-Toe desktop game
-Style inspired by PyGenPass: dark theme, purple accents, smooth animations.
-Author: theprzemoo
-"""
-
 import tkinter as tk
 from tkinter import font as tkfont
 import math
